@@ -1,0 +1,4 @@
+streamblit
+panda
+numpy
+matploblib
