@@ -1,4 +1,4 @@
 streamblit
 panda
 numpy
-matploblib
+
